@@ -30,13 +30,13 @@ Description of Project 3.
 - <a href="https://velog.io/@taemin-steve/series" target="_blank"><img src="https://img.shields.io/badge/Velog-white?style=flat&logo=velog&logoColor=#20C997"/></a>
 
 ## Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=taemin-steve&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=taemin-steve&show_icons=true&theme=vue)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taemin-steve&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taemin-steve&layout=compact&theme=vue)
 
 ## Contributions
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=taemin-steve&theme=dark)
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=taemin-steve&theme=vue)
 
 ## Visitors
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=taemin-steve)
