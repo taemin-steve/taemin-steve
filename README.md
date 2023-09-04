@@ -1,13 +1,11 @@
 # Hi there, I'm EHmin 👋
 
 ## About Me
---- 
 
 I'm a passionate in Computer Vision based. My great hobby is [Basketball](https://www.notion.so/ehmin/Boramae-BasketBall-Link-Tree-fb7e72bc90c546ab95c148efdbee25d0?pvs=4) you can join with me. I'm constantly learning and exploring new things in the world of [Your Field/Industry].
 
 
 ## My Skills
---- 
 - 💻 Programming Languages: [List of Programming Languages]
 - 🛠️ Tools & Technologies: [List of Tools and Technologies]
 - 📚 Currently learning: [What you're currently learning]
