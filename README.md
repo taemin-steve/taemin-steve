@@ -26,8 +26,8 @@ Description of Project 2.
 Description of Project 3.
 
 ## Contact Me
-- 📫 Email: [okchrisok@naver.com]
-- 🌐 Website: [https://velog.io/@taemin-steve/series]
+- <a href="okchrisok#naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-white?style=flat&logo=minutemailer&logoColor=#30B980"/></a>
+- <a href="https://velog.io/@taemin-steve/series" target="_blank"><img src="https://img.shields.io/badge/Velog-white?style=flat&logo=velog&logoColor=#20C997"/></a>
 
 ## Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=taemin-steve&show_icons=true&theme=dark)
