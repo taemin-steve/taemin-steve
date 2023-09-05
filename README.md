@@ -36,7 +36,7 @@ Description of Project 3.
   <tr>
    <td valign="top" width="55%">
      <img src="https://github-readme-stats.vercel.app/api?username=taemin-steve&show_icons=true&count_private=true&hide_border=true&theme=vue" align="left" style="width: 100%" /></td>
-   <td valign="top" width="45%">
+   <td valign="top" width="40%">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taemin-steve&hide_border=true&layout=compact&theme=vue" align="left" style="width: 100%" />
    </td>
   </tr>
