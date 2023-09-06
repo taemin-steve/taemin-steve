@@ -43,6 +43,9 @@
 <span>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=Visual-Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/CMake-064F8C.svg?style=for-the-badge&logo=CMake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=flat&logo=Google-Cloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=Notion&logoColor=white"/>
 </span>
