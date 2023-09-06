@@ -9,27 +9,43 @@
 🏀 [Basketball](https://www.notion.so/ehmin/Boramae-BasketBall-Link-Tree-fb7e72bc90c546ab95c148efdbee25d0?pvs=4) is my biggest hobby, and I relish the camaraderie it brings. I'm convinced that the teamwork and collaboration skills I've honed on the court are directly transferrable to the world of technology and development.
 
 ✔️ Check more About me 
-- <a href="https://velog.io/@taemin-steve/series" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997.svg?style=for-the-badge&logo=Velog&logoColor=white"/></a>
-- <a href="https://www.notion.so/ehmin/CV-f2c2d4b0f6a2437c927a0f385ab3eedf?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white"/></a>
-- <a href="okchrisok" target="_blank"><img src="https://img.shields.io/badge/Minutemailer-30B980.svg?style=for-the-badge&logo=Minutemailer&logoColor=white"/></a>
+- [Blog](https://velog.io/@taemin-steve/series)
+- [CV](https://velog.io/@taemin-steve/series](https://www.notion.so/ehmin/CV-f2c2d4b0f6a2437c927a0f385ab3eedf?pvs=4))
+- [Email](okchrisok@naver.com)
 
 
 <!--If you're curious to learn more about my journey, projects, or experiences, feel free to explore my <a href="https://velog.io/@taemin-steve/series" target="_blank"><img src="https://img.shields.io/badge/Velog-white?style=flat&logo=velog&logoColor=#20C997"/></a> for insightful articles and my <a href="https://www.notion.so/ehmin/CV-f2c2d4b0f6a2437c927a0f385ab3eedf?pvs=4" target="_blank"><img src="https://img.shields.io/badge/CV-white?style=flat&logo=notion&logoColor=#ffffff"/></a>-->
 
 
 ## Tech Stack
+
 ### strong
+<span>
 <img src ="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
-<img src ="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+<img src ="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white"/>
 <img src ="https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=Unreal-Engine&logoColor=white"/>
 <img src ="https://img.shields.io/badge/Three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white"/>
-
+</span>
 
 ### knowledgeable
+<span>
 <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white"/>
+</span>
 
+### tools
+<span>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white"/>
+</span>
 <!--- 💻 Programming Languages: [List of Programming Languages]-->
 <!--- 🛠️ Tools & Technologies: [List of Tools and Technologies]-->
 <!--- 📚 Currently learning: [What you're currently learning]-->
