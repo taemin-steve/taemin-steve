@@ -73,7 +73,7 @@ Description of Project 3.
 <!--## Contact Me-->
 <!--- <a href="https://velog.io/@taemin-steve/series" target="_blank"><img src="https://img.shields.io/badge/Velog-white?style=flat&logo=velog&logoColor=#20C997"/></a>-->
 
-## Stats
+<!---## Stats-->
 
 <!--<table id="stats"><tr><td valign="top" width="55%">-->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=taemin-steve&show_icons=true&count_private=true&hide_border=true&theme=vue" align="left" style="width: 100%" /></td>-->
@@ -81,10 +81,10 @@ Description of Project 3.
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taemin-steve&hide_border=true&layout=compact&theme=vue" align="left" style="width: 100%" /></td></tr>-->
 <!--</table>  -->
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=taemin-steve&show_icons=true&theme=vue)
+<!---![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=taemin-steve&show_icons=true&theme=vue)-->
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taemin-steve&layout=compact&theme=vue)
+<!---## Top Languages-->
+<!---![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taemin-steve&layout=compact&theme=vue)-->
 
 ## Contributions
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=taemin-steve&theme=vue)
