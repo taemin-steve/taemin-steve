@@ -10,7 +10,7 @@
 
 ✔️ Check more About me 
 - [Blog](https://velog.io/@taemin-steve/series)🔥
-- [CV](https://velog.io/@taemin-steve/series](https://www.notion.so/ehmin/CV-f2c2d4b0f6a2437c927a0f385ab3eedf?pvs=4))👈
+- [CV](https://velog.io/@taemin-steve/series](https://www.notion.so/ehmin/CV-f2c2d4b0f6a2437c927a0f385ab3eedf?pvs=4))
 - [Email](okchrisok@naver.com)
 
 <!--🔥 👈👉-->
