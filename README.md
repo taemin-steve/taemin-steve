@@ -39,6 +39,7 @@ Here are some of the projects I'm proud of:
 <!---## Top Languages-->
 <!---![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taemin-steve&layout=compact&theme=vue)-->
 
+<!-- ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ여기 없애면 됨!
 # Tech Stack
 
 ### strong
