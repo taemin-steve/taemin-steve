@@ -1,5 +1,6 @@
 # Hi there, I'm EHmin 👋
 
+<!--
 😄 I'm interested in 
 - Computer Vison 
 - Image Processing
@@ -12,9 +13,37 @@
 - [Blog](https://velog.io/@taemin-steve/series)🔥
 - [CV](https://velog.io/@taemin-steve/series](https://www.notion.so/ehmin/CV-f2c2d4b0f6a2437c927a0f385ab3eedf?pvs=4))
 - [Email](okchrisok@naver.com)
+-->
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <h3>😄 I'm Interested In</h3>
+      <ul>
+        <li>Computer Vision</li>
+        <li>Image Processing</li>
+        <li>Graphics</li>
+        <li>Mixed Reality (MR)</li>
+      </ul>
+    </td>
+    <td align="center" valign="top">
+      <h3>🏀 Basketball</h3>
+      <p>
+        Basketball is my biggest hobby, and I relish the camaraderie it brings. I'm convinced that the teamwork and collaboration skills I've honed on the court are directly transferrable to the world of technology and development.
+        <br>
+        <a href="https://www.notion.so/ehmin/Boramae-BasketBall-Link-Tree-fb7e72bc90c546ab95c148efdbee25d0?pvs=4">Learn more</a>
+      </p>
+    </td>
+    <td align="center" valign="top">
+      <h3>✔️ Check More About Me</h3>
+      <ul>
+        <li><a href="https://velog.io/@taemin-steve/series">Blog 🔥</a></li>
+        <li><a href="https://www.notion.so/ehmin/CV-f2c2d4b0f6a2437c927a0f385ab3eedf?pvs=4">CV</a></li>
+        <li>Email: okchrisok@naver.com</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<!--🔥 👈👉-->
-<!--If you're curious to learn more about my journey, projects, or experiences, feel free to explore my <a href="https://velog.io/@taemin-steve/series" target="_blank"><img src="https://img.shields.io/badge/Velog-white?style=flat&logo=velog&logoColor=#20C997"/></a> for insightful articles and my <a href="https://www.notion.so/ehmin/CV-f2c2d4b0f6a2437c927a0f385ab3eedf?pvs=4" target="_blank"><img src="https://img.shields.io/badge/CV-white?style=flat&logo=notion&logoColor=#ffffff"/></a>-->
 
 # Awards
 Here are some of the projects I'm proud of:
