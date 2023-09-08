@@ -25,6 +25,7 @@
         <li>Mixed Reality(MR)     </li>
       </ul>
     </td>
+    <td width="50"></td>
     <td align="left" valign="top">
       <h3>✔️ More About Me         </h3>
       <ul style="text-align: left;">
