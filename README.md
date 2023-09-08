@@ -16,6 +16,28 @@
 <!--🔥 👈👉-->
 <!--If you're curious to learn more about my journey, projects, or experiences, feel free to explore my <a href="https://velog.io/@taemin-steve/series" target="_blank"><img src="https://img.shields.io/badge/Velog-white?style=flat&logo=velog&logoColor=#20C997"/></a> for insightful articles and my <a href="https://www.notion.so/ehmin/CV-f2c2d4b0f6a2437c927a0f385ab3eedf?pvs=4" target="_blank"><img src="https://img.shields.io/badge/CV-white?style=flat&logo=notion&logoColor=#ffffff"/></a>-->
 
+# Awards
+Here are some of the projects I'm proud of:
+
+- 🏆 벤처-스타트업 아카데미 헤커톤 - 리뷰기반 게임 추천 시스템(우수상)[[github](https://www.kaggle.com/competitions/riiid-test-answer-prediction)]
+- 🏆 AI connnet Fake or Real : AI 생성 이미지 판별 경진대회 9위.[[github]](https://github.com/taemin-steve/Fake_or_Real)]
+
+
+<!--## Contact Me-->
+<!--- <a href="https://velog.io/@taemin-steve/series" target="_blank"><img src="https://img.shields.io/badge/Velog-white?style=flat&logo=velog&logoColor=#20C997"/></a>-->
+
+<!---## Stats-->
+
+<!--<table id="stats"><tr><td valign="top" width="55%">-->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=taemin-steve&show_icons=true&count_private=true&hide_border=true&theme=vue" align="left" style="width: 100%" /></td>-->
+<!-- <td valign="top" width="45%">-->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taemin-steve&hide_border=true&layout=compact&theme=vue" align="left" style="width: 100%" /></td></tr>-->
+<!--</table>  -->
+
+<!---![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=taemin-steve&show_icons=true&theme=vue)-->
+
+<!---## Top Languages-->
+<!---![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taemin-steve&layout=compact&theme=vue)-->
 
 # Tech Stack
 
@@ -53,28 +75,6 @@
 <!--- 🛠️ Tools & Technologies: [List of Tools and Technologies]-->
 <!--- 📚 Currently learning: [What you're currently learning]-->
 
-# Awards
-Here are some of the projects I'm proud of:
-
-- 🏆 벤처-스타트업 아카데미 헤커톤 - 리뷰기반 게임 추천 시스템(우수상)[[github](https://www.kaggle.com/competitions/riiid-test-answer-prediction)]
-- 🏆 AI connnet Fake or Real : AI 생성 이미지 판별 경진대회 9위.[[github]](https://github.com/taemin-steve/Fake_or_Real)]
-
-
-<!--## Contact Me-->
-<!--- <a href="https://velog.io/@taemin-steve/series" target="_blank"><img src="https://img.shields.io/badge/Velog-white?style=flat&logo=velog&logoColor=#20C997"/></a>-->
-
-<!---## Stats-->
-
-<!--<table id="stats"><tr><td valign="top" width="55%">-->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=taemin-steve&show_icons=true&count_private=true&hide_border=true&theme=vue" align="left" style="width: 100%" /></td>-->
-<!-- <td valign="top" width="45%">-->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taemin-steve&hide_border=true&layout=compact&theme=vue" align="left" style="width: 100%" /></td></tr>-->
-<!--</table>  -->
-
-<!---![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=taemin-steve&show_icons=true&theme=vue)-->
-
-<!---## Top Languages-->
-<!---![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taemin-steve&layout=compact&theme=vue)-->
 
 ## Contributions
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=taemin-steve&theme=vue)
