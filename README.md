@@ -26,7 +26,7 @@
       </ul>
     </td>
     <td align="left" valign="top">
-      <h3>✔️ More About Me </h3>
+      <h3>✔️ About Me </h3>
       <ul style="text-align: left;">
         <li><a href="https://velog.io/@taemin-steve/series">Blog 🔥</a></li>
         <li><a href="https://www.notion.so/ehmin/CV-f2c2d4b0f6a2437c927a0f385ab3eedf?pvs=4">CV</a></li>
