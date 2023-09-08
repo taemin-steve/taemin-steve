@@ -33,9 +33,9 @@
         <a href="https://www.notion.so/ehmin/Boramae-BasketBall-Link-Tree-fb7e72bc90c546ab95c148efdbee25d0?pvs=4">Learn more</a>
       </p>
     </td>
-    <td align="center" valign="top">
+    <td align="right" valign="top">
       <h3>✔️ Check More About Me</h3>
-      <ul>
+      <ul style="text-align: left;">
         <li><a href="https://velog.io/@taemin-steve/series">Blog 🔥</a></li>
         <li><a href="https://www.notion.so/ehmin/CV-f2c2d4b0f6a2437c927a0f385ab3eedf?pvs=4">CV</a></li>
         <li>Email: okchrisok@naver.com</li>
@@ -43,6 +43,7 @@
     </td>
   </tr>
 </table>
+
 
 
 # Awards
