@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td align="left" valign="top">
-      <h3>😄 Interested In</h3>
+      <h3>😄 Interested In        </h3>
       <ul>
         <li>Computer Vision       </li>
         <li>Image Processing      </li>
@@ -30,7 +30,7 @@
       <ul style="text-align: left;">
         <li><a href="https://velog.io/@taemin-steve/series">Blog 🔥</a></li>
         <li><a href="https://www.notion.so/ehmin/CV-f2c2d4b0f6a2437c927a0f385ab3eedf?pvs=4">CV</a></li>
-        <li>Email: okchrisok@naver.com</li>
+        <li<a href="okchrisok@naver.com">CV</a></li>
       </ul>
     </td>
     <td align="center" valign="top">
