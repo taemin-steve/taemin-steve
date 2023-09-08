@@ -1,7 +1,7 @@
 # Hi there, I'm EHmin 👋
 
 <!--
-😄 I'm interested in 
+😄 I'm interestes
 - Computer Vison 
 - Image Processing
 - Graphics
@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td align="left" valign="top">
-      <h3>😄 Interested In                     </h3>
+      <h3>😄 Interestes</h3>
       <ul>
         <li>Computer Vision       </li>
         <li>Image Processing      </li>
@@ -26,7 +26,7 @@
       </ul>
     </td>
     <td align="left" valign="top">
-      <h3>✔️ More About Me                        </h3>
+      <h3>✔️ More About Me </h3>
       <ul style="text-align: left;">
         <li><a href="https://velog.io/@taemin-steve/series">Blog 🔥</a></li>
         <li><a href="https://www.notion.so/ehmin/CV-f2c2d4b0f6a2437c927a0f385ab3eedf?pvs=4">CV</a></li>
@@ -36,7 +36,7 @@
     <td align="center" valign="top">
       <h3>🏀 Basketball</h3>
       <p>
-        Basketball is my biggest hobby, and I relish the camaraderie it brings.<br>
+        Basketball is my biggest hobby, and I relish the camaraderie it brings.<br><br>
         I'm convinced that the teamwork and collaboration skills I've honed on the court are directly transferrable to the world of technology and development.
         <a href="https://www.notion.so/ehmin/Boramae-BasketBall-Link-Tree-fb7e72bc90c546ab95c148efdbee25d0?pvs=4">Learn more</a>
       </p>
