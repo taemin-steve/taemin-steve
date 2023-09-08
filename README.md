@@ -53,11 +53,11 @@
 <!--- 🛠️ Tools & Technologies: [List of Tools and Technologies]-->
 <!--- 📚 Currently learning: [What you're currently learning]-->
 
-# 🏆 Awards
+# Awards
 Here are some of the projects I'm proud of:
 
-- 벤처-스타트업 아카데미 헤커톤 - 리뷰기반 게임 추천 시스템(우수상)[github](https://www.kaggle.com/competitions/riiid-test-answer-prediction)
-- AI connnet Fake or Real : AI 생성 이미지 판별 경진대회 9위.[github](https://github.com/taemin-steve/Fake_or_Real)
+- 🏆 벤처-스타트업 아카데미 헤커톤 - 리뷰기반 게임 추천 시스템(우수상)[github](https://www.kaggle.com/competitions/riiid-test-answer-prediction)
+- 🏆 AI connnet Fake or Real : AI 생성 이미지 판별 경진대회 9위.[github](https://github.com/taemin-steve/Fake_or_Real)
 
 
 <!--## Contact Me-->
