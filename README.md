@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td align="left" valign="top">
-      <h3>😄 Interested In        </h3>
+      <h3>😄 Interested In </h3>
       <ul>
         <li>Computer Vision       </li>
         <li>Image Processing      </li>
@@ -36,8 +36,8 @@
     <td align="center" valign="top">
       <h3>🏀 Basketball</h3>
       <p>
-        Basketball is my biggest hobby, and I relish the camaraderie it brings. I'm convinced that the teamwork and collaboration skills I've honed on the court are directly transferrable to the world of technology and development.
-        <br>
+        Basketball is my biggest hobby, and I relish the camaraderie it brings.<br>
+        I'm convinced that the teamwork and collaboration skills I've honed on the court are directly transferrable to the world of technology and development.
         <a href="https://www.notion.so/ehmin/Boramae-BasketBall-Link-Tree-fb7e72bc90c546ab95c148efdbee25d0?pvs=4">Learn more</a>
       </p>
     </td>
