@@ -10,7 +10,7 @@
 🏀 [Basketball](https://www.notion.so/ehmin/Boramae-BasketBall-Link-Tree-fb7e72bc90c546ab95c148efdbee25d0?pvs=4) is my biggest hobby, and I relish the camaraderie it brings. I'm convinced that the teamwork and collaboration skills I've honed on the court are directly transferrable to the world of technology and development.
 
 ✔️ Check more About me 
-- [Blog](https://velog.io/@taemin-steve/series)🔥🔥🔥
+- [Blog](https://velog.io/@taemin-steve/series)
 - [CV](https://velog.io/@taemin-steve/series](https://www.notion.so/ehmin/CV-f2c2d4b0f6a2437c927a0f385ab3eedf?pvs=4))
 - [Email](okchrisok@naver.com)
 -->
@@ -28,7 +28,7 @@
     <td align="left" valign="top">
       <h3>✔️ About Me </h3>
       <ul style="text-align: left;">
-        <li><a href="https://velog.io/@taemin-steve/series">Blog 🔥</a></li>
+        <li><a href="https://velog.io/@taemin-steve/series">Blog 🔥🔥🔥</a></li>
         <li><a href="https://www.notion.so/ehmin/CV-f2c2d4b0f6a2437c927a0f385ab3eedf?pvs=4">CV</a></li>
         <li<a href="okchrisok@naver.com">CV</a></li>
       </ul>
