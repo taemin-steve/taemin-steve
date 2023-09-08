@@ -58,17 +58,12 @@
 ## My Projects
 Here are some of the projects I'm proud of:
 
-### [Project Name 1](Link to Project 1)
-![Project 1](Project1ImageURL)
-Description of Project 1.
+![Project 1]([Project1ImageURL](https://github.com/taemin-steve/Comment-based-recommendation-system-))
+벤처-스타트업 아카데미 헤커톤 - 리뷰기반 게임 추천 시스템(우수상).
+![Project 2](https://github.com/taemin-steve/Fake_or_Real)
+AI connnet Fake or Real : AI 생성 이미지 판별 경진대회 9위.
 
-### [Project Name 2](Link to Project 2)
-![Project 2](Project2ImageURL)
-Description of Project 2.
 
-### [Project Name 3](Link to Project 3)
-![Project 3](Project3ImageURL)
-Description of Project 3.
 
 <!--## Contact Me-->
 <!--- <a href="https://velog.io/@taemin-steve/series" target="_blank"><img src="https://img.shields.io/badge/Velog-white?style=flat&logo=velog&logoColor=#20C997"/></a>-->
