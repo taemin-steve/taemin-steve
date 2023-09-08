@@ -17,7 +17,7 @@
 <!--If you're curious to learn more about my journey, projects, or experiences, feel free to explore my <a href="https://velog.io/@taemin-steve/series" target="_blank"><img src="https://img.shields.io/badge/Velog-white?style=flat&logo=velog&logoColor=#20C997"/></a> for insightful articles and my <a href="https://www.notion.so/ehmin/CV-f2c2d4b0f6a2437c927a0f385ab3eedf?pvs=4" target="_blank"><img src="https://img.shields.io/badge/CV-white?style=flat&logo=notion&logoColor=#ffffff"/></a>-->
 
 
-## Tech Stack
+# Tech Stack
 
 ### strong
 <span>
@@ -53,16 +53,11 @@
 <!--- 🛠️ Tools & Technologies: [List of Tools and Technologies]-->
 <!--- 📚 Currently learning: [What you're currently learning]-->
 
-
-
-## My Projects
+# 🏆 Awards
 Here are some of the projects I'm proud of:
 
-![Project 1]([Project1ImageURL](https://github.com/taemin-steve/Comment-based-recommendation-system-))
-벤처-스타트업 아카데미 헤커톤 - 리뷰기반 게임 추천 시스템(우수상).
-![Project 2](https://github.com/taemin-steve/Fake_or_Real)
-AI connnet Fake or Real : AI 생성 이미지 판별 경진대회 9위.
-
+- 벤처-스타트업 아카데미 헤커톤 - 리뷰기반 게임 추천 시스템(우수상)[github](https://www.kaggle.com/competitions/riiid-test-answer-prediction)
+- AI connnet Fake or Real : AI 생성 이미지 판별 경진대회 9위.[github](https://github.com/taemin-steve/Fake_or_Real)
 
 
 <!--## Contact Me-->
