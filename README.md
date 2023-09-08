@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td align="left" valign="top">
-      <h3>😄 Interested In</h3>
+      <h3>😄 Interested In     </h3>
       <ul>
         <li>Computer Vision</li>
         <li>Image Processing</li>
