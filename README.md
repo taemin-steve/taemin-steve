@@ -14,39 +14,10 @@
 - [CV](https://velog.io/@taemin-steve/series](https://www.notion.so/ehmin/CV-f2c2d4b0f6a2437c927a0f385ab3eedf?pvs=4))
 - [Email](okchrisok@naver.com)
 -->
-<table>
-  <tr>
-    <td align="left" valign="top">
-      <h3>😄Interestes</h3>
-      <ul>
-        <li>Computer Vision       </li>
-        <li>Image Processing      </li>
-        <li>Graphics              </li>
-        <li>Mixed Reality(MR)     </li>
-      </ul>
-    </td>
-    <td align="left" valign="top">
-      <h3>✔️AboutMe </h3>
-      <ul style="text-align: left;">
-        <li><a href="https://velog.io/@taemin-steve/series">Blog 🔥               </a></li>
-        <li><a href="https://www.notion.so/ehmin/CV-f2c2d4b0f6a2437c927a0f385ab3eedf?pvs=4">CV</a></li>
-        <li<a href="okchrisok@naver.com">CV                                        </a></li>
-      </ul>
-    </td>
-    <td align="center" valign="top">
-      <h3>🏀Basketball</h3>
-      <p>
-        Basketball is my biggest hobby, and I relish the camaraderie it brings.<br><br>
-        I'm convinced that the teamwork and collaboration skills I've honed on the court are directly transferrable to the world of technology and development.
-        <a href="https://www.notion.so/ehmin/Boramae-BasketBall-Link-Tree-fb7e72bc90c546ab95c148efdbee25d0?pvs=4">Learn more</a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 |<h3>😄Interestes</h3>|<h3>✔️AboutMe</h3>|<h3>🏀Basketball</h3>|
 |------|---|---|
-|<ul><li>Computer Vision</li><li>Image Processing</li><li>Graphics</li><li>Mixed Reality(MR)</li></ul>|<ul style="text-align: left;"><li><a href="https://velog.io/@taemin-steve/series">Blog 🔥</a></li><li><a href="https://www.notion.so/ehmin/CV-f2c2d4b0f6a2437c927a0f385ab3eedf?pvs=4">CV</a></li><li<a href="okchrisok@naver.com">Email</a></li></ul>| Basketball is my biggest hobby, and I relish the camaraderie it brings.<br><br>I'm convinced that the teamwork and collaboration skills I've honed on the court are directly transferrable to the world of technology and development.|
+|<ul><li>Computer Vision</li><li>Image Processing</li><li>Graphics</li><li>Mixed Reality(MR)</li></ul>|<ul style="text-align: left;"><li><a href="https://velog.io/@taemin-steve/series">Blog 🔥</a></li><li><a href="https://www.notion.so/ehmin/CV-f2c2d4b0f6a2437c927a0f385ab3eedf?pvs=4">CV</a></li><li><a href="okchrisok@naver.com">Email</a></li></ul>| Basketball is my biggest hobby, and I relish the camaraderie it brings.<br><br>I'm convinced that the teamwork and collaboration skills I've honed on the court are directly transferrable to the world of technology and development.|
 
 
 
