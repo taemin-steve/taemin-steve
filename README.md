@@ -44,21 +44,24 @@
   </tr>
 </table>
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 50%; padding: 0 10px;">
-    - Item 1
+<span>
+  <div style="flex: 1;">
+    <ul>
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <li>Item 3</li>
+    </ul>
   </div>
-  <div style="flex: 50%; padding: 0 10px;">
-    - Item 2
+</span>
+<span>
+  <div style="flex: 1;">
+    <ul>
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <li>Item 3</li>
+    </ul>
   </div>
-  <div style="flex: 50%; padding: 0 10px;">
-    - Item 3
-  </div>
-  <div style="flex: 50%; padding: 0 10px;">
-    - Item 4
-  </div>
-</div>
-
+</span>
 
 
 # Awards
