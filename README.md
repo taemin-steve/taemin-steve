@@ -44,10 +44,9 @@ Here are some of the projects I'm proud of:
 <!---## Top Languages-->
 <!---![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taemin-steve&layout=compact&theme=vue)-->
 
-ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ여기 없애면 됨!
 # Tech Stack
 
-### strong
+💪Strong
 <span>
 <img src ="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white"/>
 <img src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white"/>
@@ -56,7 +55,7 @@ Here are some of the projects I'm proud of:
 <img src ="https://img.shields.io/badge/Three.js-000000.svg?style=flat&logo=threedotjs&logoColor=white"/>
 </span>
 
-### knowledgeable
+📚 Knowledgeable
 <span>
 <img src="https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=C++&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"/>
@@ -67,7 +66,7 @@ Here are some of the projects I'm proud of:
 <img src="https://img.shields.io/badge/Django-092E20.svg?style=flat&logo=Django&logoColor=white"/>
 </span>
 
-### tools
+🛠 Tools
 <span>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=Visual-Studio&logoColor=white"/>
@@ -82,7 +81,7 @@ Here are some of the projects I'm proud of:
 <!--- 📚 Currently learning: [What you're currently learning]-->
 
 
-## Contributions
+# Contributions
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=taemin-steve&theme=vue)
 
 <!--## Visitors-->
