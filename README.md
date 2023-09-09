@@ -28,9 +28,9 @@
     <td align="left" valign="top">
       <h3>✔️About Me </h3>
       <ul style="text-align: left;">
-        <li><a href="https://velog.io/@taemin-steve/series">Blog 🔥</a></li>
+        <li><a href="https://velog.io/@taemin-steve/series">Blog 🔥               </a></li>
         <li><a href="https://www.notion.so/ehmin/CV-f2c2d4b0f6a2437c927a0f385ab3eedf?pvs=4">CV</a></li>
-        <li<a href="okchrisok@naver.com">CV</a></li>
+        <li<a href="okchrisok@naver.com">CV                                        </a></li>
       </ul>
     </td>
     <td align="center" valign="top">
@@ -43,25 +43,6 @@
     </td>
   </tr>
 </table>
-
-<span>
-  <div style="flex: 1;">
-    <ul>
-      <li>Item 1</li>
-      <li>Item 2</li>
-      <li>Item 3</li>
-    </ul>
-  </div>
-</span>
-<span>
-  <div style="flex: 1;">
-    <ul>
-      <li>Item 1</li>
-      <li>Item 2</li>
-      <li>Item 3</li>
-    </ul>
-  </div>
-</span>
 
 
 # Awards
