@@ -44,11 +44,10 @@
   </tr>
 </table>
 
-|제목|내용|설명|
+|😄Interestes|✔️About Me|🏀Basketball|
 |------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+|<ul><li>Computer Vision</li><li>Image Processing</li><li>Graphics</li><li>Mixed Reality(MR)</li></ul>|<ul style="text-align: left;"><li><a href="https://velog.io/@taemin-steve/series">Blog 🔥</a></li><li><a href="https://www.notion.so/ehmin/CV-f2c2d4b0f6a2437c927a0f385ab3eedf?pvs=4">CV</a></li><li<a href="okchrisok@naver.com">CV</a></li></ul>| Basketball is my biggest hobby, and I relish the camaraderie it brings. I'm convinced that the teamwork and collaboration skills I've honed on the court are directly transferrable to the world of technology and development.|
+
 
 
 # Awards
