@@ -44,6 +44,23 @@
   </tr>
 </table>
 
+<div style="display: flex; flex-direction: row;">
+  <div style="flex: 1;">
+    <ul>
+      <li>Computer Vision</li>
+      <li>Image Processing</li>
+    </ul>
+  </div>
+</div>
+<div style="display: flex; flex-direction: row;">
+  <div style="flex: 1;">
+    <ul>
+      <li>Graphics</li>
+      <li>Mixed Reality(MR)</li>
+    </ul>
+  </div>
+</div>
+
 
 
 # Awards
