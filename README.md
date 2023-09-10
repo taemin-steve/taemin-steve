@@ -45,7 +45,7 @@ Here are some of the projects I'm proud of:
 <!---![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taemin-steve&layout=compact&theme=vue)-->
 
 # Tech Stack
-
+<div align=center>
 💪Strong<br>
 <span>
 <img src ="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white"/>
@@ -79,11 +79,12 @@ Here are some of the projects I'm proud of:
 <!--- 💻 Programming Languages: [List of Programming Languages]-->
 <!--- 🛠️ Tools & Technologies: [List of Tools and Technologies]-->
 <!--- 📚 Currently learning: [What you're currently learning]-->
-
+</div>
 
 # Contributions
+<div align=center>
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=taemin-steve&theme=vue)
-
+</div>
 <!--## Visitors-->
 <!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=taemin-steve)-->
 
