@@ -81,8 +81,8 @@ Here are some of the projects I'm proud of:
 <!--- 📚 Currently learning: [What you're currently learning]-->
 </div>
 
-# Contributions
 <div align=center>
+# Contributions
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=taemin-steve&theme=vue)
 </div>
 <!--## Visitors-->
