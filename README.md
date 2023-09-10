@@ -46,7 +46,7 @@ Here are some of the projects I'm proud of:
 
 # Tech Stack
 <div align=center>
-💪Strong<br>
+######💪Strong<br>
 <span>
 <img src ="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white"/>
 <img src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white"/>
@@ -55,7 +55,7 @@ Here are some of the projects I'm proud of:
 <img src ="https://img.shields.io/badge/Three.js-000000.svg?style=flat&logo=threedotjs&logoColor=white"/>
 </span>
 
-📚 Knowledgeable<br>
+######📚 Knowledgeable<br>
 <span>
 <img src="https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=C++&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"/>
@@ -66,7 +66,7 @@ Here are some of the projects I'm proud of:
 <img src="https://img.shields.io/badge/Django-092E20.svg?style=flat&logo=Django&logoColor=white"/>
 </span>
 
-🛠 Tools<br>
+######🛠 Tools<br>
 <span>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=Visual-Studio&logoColor=white"/>
@@ -81,10 +81,9 @@ Here are some of the projects I'm proud of:
 <!--- 📚 Currently learning: [What you're currently learning]-->
 </div>
 
-<div align=center>
+
 # Contributions
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=taemin-steve&theme=vue)
-</div>
 <!--## Visitors-->
 <!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=taemin-steve)-->
 
