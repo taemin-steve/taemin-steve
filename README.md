@@ -1,20 +1,5 @@
 # Hi there, I'm EHmin 👋
 
-<!--
-😄 I'm interestes
-- Computer Vison 
-- Image Processing
-- Graphics
-- Mixed Reality(MR)
-
-🏀 [Basketball](https://www.notion.so/ehmin/Boramae-BasketBall-Link-Tree-fb7e72bc90c546ab95c148efdbee25d0?pvs=4) is my biggest hobby, and I relish the camaraderie it brings. I'm convinced that the teamwork and collaboration skills I've honed on the court are directly transferrable to the world of technology and development.
-
-✔️ Check more About me 
-- [Blog](https://velog.io/@taemin-steve/series)
-- [CV](https://velog.io/@taemin-steve/series](https://www.notion.so/ehmin/CV-f2c2d4b0f6a2437c927a0f385ab3eedf?pvs=4))
-- [Email](okchrisok@naver.com)
--->
-
 |<h3>😄Interestes</h3>|<h3>✔️AboutMe</h3>|<h3>🏀Basketball</h3>|
 |------|---|:---:|
 |<ul><li>Computer Vision</li><li>Image Processing</li><li>Graphics</li><li>Mixed Reality(MR)</li></ul>|<ul style="text-align: left;"><li><a href="https://velog.io/@taemin-steve/series">Blog 🔥</a></li><li><a href="https://ehmin.notion.site/2af09938f6824f06b2dbef995a1fab36?pvs=4">CV</a></li><li><a href="mailto:okchrisok@naver.com">Email</a></li></ul>| Basketball is my biggest hobby.<br><br>I'm convinced that the teamwork and collaboration skills I've honed on the court are directly transferrable to the world of technology and development.<br><br>Check out <a href="https://www.notion.so/ehmin/Boramae-BasketBall-Link-Tree-fb7e72bc90c546ab95c148efdbee25d0?pvs=4">teamwork</a>! |
@@ -29,23 +14,6 @@
 # Work Expreience
 - 🚢 선박 자율운항을 위한 Image Data를 생성 및 Porecessing (with Avikus)[[github](https://github.com/taemin-steve/Auto-Vehicle-Asistantance-Imaging)]
 - 🦴 척수 수술을 위한 Navigatioon System [[github](https://github.com/taemin-steve/SpineNavi)]
-
-
-<!--## Contact Me-->
-<!--- <a href="https://velog.io/@taemin-steve/series" target="_blank"><img src="https://img.shields.io/badge/Velog-white?style=flat&logo=velog&logoColor=#20C997"/></a>-->
-
-<!---## Stats-->
-
-<!--<table id="stats"><tr><td valign="top" width="55%">-->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=taemin-steve&show_icons=true&count_private=true&hide_border=true&theme=vue" align="left" style="width: 100%" /></td>-->
-<!-- <td valign="top" width="45%">-->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taemin-steve&hide_border=true&layout=compact&theme=vue" align="left" style="width: 100%" /></td></tr>-->
-<!--</table>  -->
-
-<!---![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=taemin-steve&show_icons=true&theme=vue)-->
-
-<!---## Top Languages-->
-<!---![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taemin-steve&layout=compact&theme=vue)-->
 
 # Tech Stack
 💪Strong<br><br>
@@ -78,15 +46,9 @@
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=flat&logo=Google-Cloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=Notion&logoColor=white"/>
 </span>
-<!--- 💻 Programming Languages: [List of Programming Languages]-->
-<!--- 🛠️ Tools & Technologies: [List of Tools and Technologies]-->
-<!--- 📚 Currently learning: [What you're currently learning]-->
-
 
 
 # Contributions
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=taemin-steve&theme=vue)
-<!--## Visitors-->
-<!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=taemin-steve)-->
 
 Thanks for visiting my GitHub profile! Feel free to explore my projects and get in touch.
