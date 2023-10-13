@@ -48,14 +48,14 @@
 </span>
 
 # Education
-![(2022.01.11) Unity ALP PROGRAM](https://github.com/taemin-steve/taemin-steve/assets/75752289/540e6072-f95e-4c8d-865f-bea684000e68)
-![(2023.09.21)부트캠프 AI Tech Pre-Courese](https://github.com/taemin-steve/taemin-steve/assets/75752289/24160200-e312-4ccb-9162-40b844db313b)
-![(2023.09.30)H-Mobility Class 공통분야](https://github.com/taemin-steve/taemin-steve/assets/75752289/9dab2385-ec68-4f9f-bf27-771b5c97df4d)
-![(2023.09.30)H-Mobility Class 인지분야](https://github.com/taemin-steve/taemin-steve/assets/75752289/ddb0607f-0161-4919-b701-b8b74506d646)
-![(2023.09.30)H-Mobility Class 판단분야](https://github.com/taemin-steve/taemin-steve/assets/75752289/8e2e0e99-9ddc-44b8-8f2a-24dc314e48fc)
-![(2023.09.30)H-Mobility Class 제어분야](https://github.com/taemin-steve/taemin-steve/assets/75752289/1c2f9be8-8a6e-4a9c-9f0c-f45411112d22)
-![(2023.09.30)H-Mobility Class 네트워크분야](https://github.com/taemin-steve/taemin-steve/assets/75752289/014e8016-8fdc-4fea-abcc-d4c4ac41b85f)
-![(2023.09.30)H-Mobility Class 임베디드SW](https://github.com/taemin-steve/taemin-steve/assets/75752289/18bf67d3-2633-4d56-b0d2-518cb5952ee6)
+<a href="https://github.com/taemin-steve/taemin-steve/assets/75752289/540e6072-f95e-4c8d-865f-bea684000e68">(2022.01.11) Unity ALP PROGRAM</a>  
+<a href="https://github.com/taemin-steve/taemin-steve/assets/75752289/24160200-e312-4ccb-9162-40b844db313b">(2023.09.21)부트캠프 AI Tech Pre-Courese</a>  
+<a href="https://github.com/taemin-steve/taemin-steve/assets/75752289/9dab2385-ec68-4f9f-bf27-771b5c97df4d)">(2023.09.30)H-Mobility Class 공통분야</a>  
+<a href="https://github.com/taemin-steve/taemin-steve/assets/75752289/ddb0607f-0161-4919-b701-b8b74506d646">(2023.09.30)H-Mobility Class 인지분야</a>  
+<a href="https://github.com/taemin-steve/taemin-steve/assets/75752289/8e2e0e99-9ddc-44b8-8f2a-24dc314e48fc">(2023.09.30)H-Mobility Class 판단분야</a>  
+<a href="https://github.com/taemin-steve/taemin-steve/assets/75752289/1c2f9be8-8a6e-4a9c-9f0c-f45411112d22">(2023.09.30)H-Mobility Class 제어분야</a>  
+<a href="https://github.com/taemin-steve/taemin-steve/assets/75752289/014e8016-8fdc-4fea-abcc-d4c4ac41b85f">(2023.09.30)H-Mobility Class 네트워크분야</a>  
+<a href="https://github.com/taemin-steve/taemin-steve/assets/75752289/18bf67d3-2633-4d56-b0d2-518cb5952ee6">(2023.09.30)H-Mobility Class 임베디드SW</a>  
 
 # Contributions
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=taemin-steve&theme=vue)
