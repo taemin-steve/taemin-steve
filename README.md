@@ -9,7 +9,7 @@
 # Awards
 - 🏆 벤처-스타트업 아카데미 헤커톤 - 리뷰기반 게임 추천 시스템(우수상)[[github](https://github.com/taemin-steve/Comment-based-recommendation-system-)]
 - 🏆 참빛설계학기 : 무신사 Style Review 적립금 자동지급 시스템 (장려상)[[github](https://github.com/taemin-steve/Automatic-reserve-payment-system)]
-- 🏆 AI connnet Fake or Real : AI 생성 이미지 판별 경진대회 9위.[[github](https://github.com/taemin-steve/Fake_or_Real)]
+- 🏆 AI connnet Fake or Real : AI 생성 이미지 판별 경진대회 9위.[[github](https://github.com/taemin-steve/Fake_or_Real)] 
 
 # Work Expreience
 - 🚢 선박 자율운항을 위한 Image Data를 생성 및 Porecessing (with Avikus)[[github](https://github.com/taemin-steve/Auto-Vehicle-Asistantance-Imaging)]
