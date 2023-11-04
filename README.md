@@ -58,6 +58,8 @@
 <a href="https://github.com/taemin-steve/taemin-steve/assets/75752289/014e8016-8fdc-4fea-abcc-d4c4ac41b85f">(2023.09.30)H-Mobility Class 네트워크분야</a>  
 <a href="https://github.com/taemin-steve/taemin-steve/assets/75752289/18bf67d3-2633-4d56-b0d2-518cb5952ee6">(2023.09.30)H-Mobility Class 임베디드SW</a>  
 
+(2023.10.30) 밴처-스타트업 아카데미 최우수 수료 (중소벤처기업부장관상)
+
 # Contributions
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=taemin-steve&theme=vue)
 
