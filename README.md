@@ -1,6 +1,5 @@
 # Hi there, I'm EHmin 👋
 
-
 |<h3>😄Interestes</h3>|<h3>✔️AboutMe</h3>|<h3>🏀Basketball</h3>|
 |------|---|:---:|
 |<ul><li>Computer Vision</li><li>Image Processing</li><li>Graphics</li><li>Mixed Reality(MR)</li></ul>|<ul style="text-align: left;"><li><a href="https://velog.io/@taemin-steve/series">Blog 🔥</a></li><li><a href="https://ehmin.notion.site/2af09938f6824f06b2dbef995a1fab36?pvs=4">CV</a></li><li><a href="mailto:okchrisok@naver.com">Email</a></li></ul>| Basketball is my biggest hobby.<br><br>I'm convinced that the teamwork and collaboration skills I've honed on the court are directly transferrable to the world of technology and development.<br><br>Check out <a href="https://www.notion.so/ehmin/Boramae-BasketBall-Link-Tree-fb7e72bc90c546ab95c148efdbee25d0?pvs=4">teamwork</a>! 
